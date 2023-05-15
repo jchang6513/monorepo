@@ -1,0 +1,12 @@
+{
+  "name": "@package/underline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "peerDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
